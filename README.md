@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **punitwranz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hOLT2XxTffRswtIYAT5uedgneemBls-4/view?usp=sharing](https://drive.google.com/file/d/1hOLT2XxTffRswtIYAT5uedgneemBls-4/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/tKTW6](https://shorturl.at/tKTW6)
 
 - ⚡ Fun fact **Once I start working on a project I love, everything else takes a backseat - food, sleep, you name it!**
 
