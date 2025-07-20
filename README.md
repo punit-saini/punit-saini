@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/punitnotpuneet" target="blank"><img src="https://img.shields.io/twitter/follow/punitnotpuneet?logo=twitter&style=for-the-badge" alt="punitnotpuneet" /></a> </p>
 
-- 🌱 I’m currently learning **Langchain and Pinecoin**
 
-- 👨‍💻 All of my projects are available at [https://punit.tech](https://punit.tech)
 
 - 📫 How to reach me **punitwranz@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/tKTW6](https://shorturl.at/tKTW6)
+
 
 - ⚡ Fun fact **Once I start working on a project I love, everything else takes a backseat - food, sleep, you name it!**
 
