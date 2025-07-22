@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Punit Kumar Saini</h1>
+<h1 align="center">Hi 👋, I'm Punit</h1>
 <h3 align="center">Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mandatory.com/wp-content/uploads/sites/10/gallery/silicon-valley-gifs/sv-9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punit-saini&label=Profile%20views&color=0e75b6&style=flat" alt="punit-saini" /> </p>
