@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I’m **Punit Saini** — a mobile app developer specializing in **React Native** and **Next.js**, passionate about building smooth, engaging apps with clean UI and great performance.  
+Mobile app developer specializing in **React Native**, passionate about building smooth, engaging apps with clean UI and great performance.  
 Alongside my dev work, I also run **[mp4vaultindia](https://instagram.com/mp4vaultindia)** — an Instagram page with **200K+ followers** where I share rare videos, historical moments, and socially impactful stories from India.  
 I blend **tech, creativity, and storytelling** — from crafting modern mobile experiences to managing social media campaigns that actually connect with people.
 
@@ -21,15 +21,15 @@ I blend **tech, creativity, and storytelling** — from crafting modern mobile e
 
 ## 📌 Featured Project
 
-### [Cognito - Multiplayer Quiz App](https://github.com/your-username/Cognito-Quiz-App)
+### [Cognito - Multiplayer Quiz App](https://github.com/punit/Cognito-Quiz-App)
 A modern, mobile-first quiz app where you can play solo or compete with friends in real-time.  
 Built with **React Native**, **Expo**, and **Appwrite** — features include multiplayer rooms, animated UI, category selection, stats tracking, and account management.
 
 ---
 
 ## 🌐 Let’s Connect
+- 🐙 Twitter: [Punit Saini](https://x.com/punitNotPuneet)  
+- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/punit-saini-2003)  
 - 📸 Instagram: [mp4vaultindia](https://instagram.com/mp4vaultindia)  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐙 GitHub: [Punit Saini](https://github.com/your-username)  
 
 ---
