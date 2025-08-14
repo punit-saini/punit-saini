@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Punit</h1>
 <h3 align="center">React Native & Mobile App Developer 🚀</h3>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<!-- GIF neatly aligned on the right -->
+<div align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300" />
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=punit-saini&label=Profile%20views&color=0e75b6&style=flat" alt="punit-saini" />
@@ -10,10 +14,10 @@
 
 ### 👨‍💻 About Me
 - 📱 I build **smooth, cross-platform mobile apps** with **React Native & Expo**
-- Social media storyteller at [@mp4vaultindia](https://instagram.com/mp4vaultindia) — sharing rare Indian history & culture with 200K+ people.
+- 📜 Social media storyteller at [@mp4vaultindia](https://instagram.com/mp4vaultindia) — sharing rare Indian history & culture with 200K+ people
 - 🌐 Background in **web development** – Next.js, Node.js, and more  
 - 🎯 I focus on **user experience, performance, and clean code**  
-- 📫 How to reach me: **punitwranz@gmail.com**  
+- 📫 Reach me at: **punitwranz@gmail.com**  
 - ⚡ Fun fact: *Once I’m deep into a project I love, food and sleep take a backseat* 😄  
 
 ---
@@ -38,6 +42,3 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://appwrite.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/25003669?s=200&v=4" alt="appwrite" width="40" height="40"/> </a>
 </p>
-
----
-
