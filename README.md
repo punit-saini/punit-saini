@@ -9,8 +9,8 @@
 ## 👨‍💻 About Me
 
 Mobile app developer specializing in **React Native**, passionate about building smooth, engaging apps with clean UI and great performance.  
-Alongside my dev work, I also run **[mp4vaultindia](https://instagram.com/mp4vaultindia)** — an Instagram page with **200K+ followers** where I share rare videos, historical moments, and socially impactful stories from India.  
-I blend **tech, creativity, and storytelling** — from crafting modern mobile experiences to managing social media campaigns that actually connect with people.
+Alongside my dev work, I also run **[mp4vaultindia](https://instagram.com/mp4vaultindia)**, an Instagram page with **200K+ followers** where I share rare videos, historical moments, and socially impactful stories from India.  
+I blend **tech, creativity, and storytelling**, from crafting modern mobile experiences to managing social media campaigns that actually connect with people.
 
 ---
 
