@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Punit</h1>
 <h3 align="center">React Native & Mobile App Developer 🚀</h3>
 
-<!-- GIF neatly aligned on the right -->
-<div align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300" />
-</div>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=punit-saini&label=Profile%20views&color=0e75b6&style=flat" alt="punit-saini" />
@@ -13,11 +10,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 📱 I build **smooth, cross-platform mobile apps** with **React Native & Expo**
-- 📜 Social media storyteller at [@mp4vaultindia](https://instagram.com/mp4vaultindia) — sharing rare Indian history & culture with 200K+ people
+- 📱 I build **smooth, cross-platform mobile apps** with **React Native & Expo**  
+- 📸 Social media storyteller at [@mp4vaultindia](https://instagram.com/mp4vaultindia) — sharing rare Indian history & culture with 200K+ people  
 - 🌐 Background in **web development** – Next.js, Node.js, and more  
-- 🎯 I focus on **user experience, performance, and clean code**  
-- 📫 Reach me at: **punitwranz@gmail.com**  
+- 🎯 Focused on **user experience, performance, and clean code**  
+- 📫 Reach me at **punitwranz@gmail.com**  
 - ⚡ Fun fact: *Once I’m deep into a project I love, food and sleep take a backseat* 😄  
 
 ---
